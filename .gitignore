@@ -1,0 +1,6 @@
+.env
+node_modules/
+*.jks
+*.keystore
+.DS_Store
+Thumbs.dbgi
